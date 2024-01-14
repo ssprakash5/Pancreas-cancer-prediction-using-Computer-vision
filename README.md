@@ -1,4 +1,7 @@
 # Pancreas-cancer-prediction-using-Computer-vision
+![Pancreas cancer detection](https://github.com/ssprakash5/Pancreas-cancer-prediction-using-Computer-vision/assets/154003057/8eeb2608-5f43-4134-ae77-e724bd6e248c)
+![Nanobot ORB key point](https://github.com/ssprakash5/Pancreas-cancer-prediction-using-Computer-vision/assets/154003057/f78c4a82-6bf6-48f7-a973-bc916a7d6bf0)
+
 Pancreas Cancer Prediction Using Computer Vision
 Overview
 Pancreatic cancer is a deadly disease that often goes undetected until it reaches advanced stages. Early detection plays a crucial role in improving patient outcomes. This Data Science project aims to develop a Pancreas Cancer Prediction model using Computer Vision techniques on medical imaging data.
