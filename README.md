@@ -32,6 +32,7 @@ The project utilizes a curated dataset of medical images from https://www.kaggle
 ![conv3](https://github.com/ssprakash5/Pancreas-cancer-prediction-using-Computer-vision/assets/154003057/32fc65f5-1b69-448a-87e3-e672579c01e7)
 
 ### Model Evaluation
+![CNN2](https://github.com/ssprakash5/Pancreas-cancer-prediction-using-Computer-vision/assets/154003057/bdd1793b-2122-452e-9eaf-22ff292a3edb)
 
 - **Training and Validation:** Split the dataset into training and validation sets for model evaluation.
 - **Metrics:** Utilize metrics such as accuracy, precision, recall, and F1 score to assess model performance.
