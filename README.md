@@ -5,6 +5,7 @@
 ## Overview
 
 Pancreatic cancer is a deadly disease often detected at advanced stages. This Data Science project aims to develop a predictive model using Computer Vision techniques on medical imaging data for early detection.
+![Pancreatic cancer](https://github.com/ssprakash5/Pancreas-cancer-prediction-using-Computer-vision/assets/154003057/b89012e7-a8f9-4a5a-a470-69074b3c4854)
 
 ## Objectives
 
