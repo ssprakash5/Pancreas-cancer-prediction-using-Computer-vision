@@ -16,7 +16,7 @@ Pancreatic cancer is a deadly disease often detected at advanced stages. This Da
 
 ## Dataset
 
-The project utilizes a curated dataset of medical images, focusing on CT scans or MRI images of the pancreas, including labeled images with positive and negative cases of pancreatic cancer.
+The project utilizes a curated dataset of medical images from https://www.kaggle.com/datasets/piyansusaha/pancreas-cancer-dataset, focusing on CT scans or MRI images of the pancreas, including labeled images with positive and negative cases of pancreatic cancer.
 
 ## Methodology
 
