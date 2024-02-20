@@ -29,6 +29,7 @@ The project utilizes a curated dataset of medical images from https://www.kaggle
 
 - **Convolutional Neural Network (CNN):** Implement a CNN architecture suitable for image classification.
 - **Transfer Learning:** Explore pre-trained models (e.g., ResNet, VGG16) for feature extraction and fine-tuning.
+![conv3](https://github.com/ssprakash5/Pancreas-cancer-prediction-using-Computer-vision/assets/154003057/32fc65f5-1b69-448a-87e3-e672579c01e7)
 
 ### Model Evaluation
 
