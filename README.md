@@ -1,6 +1,5 @@
 # Pancreas-cancer-prediction-using-Computer-vision
 ![Pancreas cancer detection](https://github.com/ssprakash5/Pancreas-cancer-prediction-using-Computer-vision/assets/154003057/8eeb2608-5f43-4134-ae77-e724bd6e248c)
-![Nanobot ORB key point](https://github.com/ssprakash5/Pancreas-cancer-prediction-using-Computer-vision/assets/154003057/f78c4a82-6bf6-48f7-a973-bc916a7d6bf0)
 
 ## Overview
 
@@ -45,6 +44,7 @@ The project utilizes a curated dataset of medical images from https://www.kaggle
 ## Results
 
 The project's success will be measured by the model's accuracy in correctly predicting pancreatic cancer from medical images, aiming for high sensitivity and specificity for reliable detection.
+![U net model](https://github.com/ssprakash5/Pancreas-cancer-prediction-using-Computer-vision/assets/154003057/b12c0299-67d9-4790-9fe3-a62f67214cba)
 
 ## Future Enhancements
 
